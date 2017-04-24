@@ -10,7 +10,7 @@ Hi, I'm Justin Carter, a Software Engineer and consultant based in Berlin, Germa
 
 I work at [Stark & Wayne](https://starkandwayne.com/blog) to help clients deploy and maintain large scale distributed systems such as Cloud Foundry on their IaaS of choice, including building out CI/CD and other automation to minimize operational costs.
 
-I am a core maintainer of the habitat.sh project and author of [Delmo](https://github.com/bodymindarts/delmo) a testing tool for containerized distributed system.
+I am a core maintainer of the [habitat](https://www.habitat.sh/) project and author of [Delmo](https://github.com/bodymindarts/delmo) a testing tool for containerized distributed system.
 
 I work on a number of open source projects intended to augment usability of cloud native application runtimes such as self-serviced, highly available and backed up data services.
 
